@@ -1,0 +1,9 @@
+C:\dev\ConsultaCEPWeb\src\ConsultaCEPWeb.Repository\bin\Debug\netcoreapp3.1\ConsultaCEPWeb.Repository.deps.json
+C:\dev\ConsultaCEPWeb\src\ConsultaCEPWeb.Repository\bin\Debug\netcoreapp3.1\ConsultaCEPWeb.Repository.dll
+C:\dev\ConsultaCEPWeb\src\ConsultaCEPWeb.Repository\bin\Debug\netcoreapp3.1\ConsultaCEPWeb.Repository.pdb
+C:\dev\ConsultaCEPWeb\src\ConsultaCEPWeb.Repository\obj\Debug\netcoreapp3.1\ConsultaCEPWeb.Repository.csproj.AssemblyReference.cache
+C:\dev\ConsultaCEPWeb\src\ConsultaCEPWeb.Repository\obj\Debug\netcoreapp3.1\ConsultaCEPWeb.Repository.AssemblyInfoInputs.cache
+C:\dev\ConsultaCEPWeb\src\ConsultaCEPWeb.Repository\obj\Debug\netcoreapp3.1\ConsultaCEPWeb.Repository.AssemblyInfo.cs
+C:\dev\ConsultaCEPWeb\src\ConsultaCEPWeb.Repository\obj\Debug\netcoreapp3.1\ConsultaCEPWeb.Repository.csproj.CoreCompileInputs.cache
+C:\dev\ConsultaCEPWeb\src\ConsultaCEPWeb.Repository\obj\Debug\netcoreapp3.1\ConsultaCEPWeb.Repository.dll
+C:\dev\ConsultaCEPWeb\src\ConsultaCEPWeb.Repository\obj\Debug\netcoreapp3.1\ConsultaCEPWeb.Repository.pdb
